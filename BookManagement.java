@@ -119,7 +119,7 @@ class BookManagement{
                     }
                 }
                  if(!found){
-                        System.out.println("This Book is no Available.");
+                        System.out.println("This Book is not Available.");
                     }
                 break;
             }
@@ -192,7 +192,7 @@ class BookManagement{
                 break;
             }
         }
-        
+        sc.close();
       }
     }
 }
