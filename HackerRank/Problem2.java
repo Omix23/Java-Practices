@@ -8,6 +8,7 @@ public class Problem2 {
          int T = sc.nextInt(); 
          for (int i = 0; i < T; i++){
             String n = sc.next();
+                
             
          }
     }

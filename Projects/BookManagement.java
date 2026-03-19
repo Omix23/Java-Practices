@@ -191,6 +191,10 @@ class BookManagement{
                 running = false;
                 break;
             }
+
+            default : {
+                System.out.println("Invalid Choice");
+            }
         }
         sc.close();
       }
